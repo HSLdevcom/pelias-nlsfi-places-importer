@@ -1,0 +1,23 @@
+{
+  "name": "pelias-nlsfi-places-importer",
+  "version": "1.0.0",
+  "description": "National Land Survey places importer for Pelias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HSLdevcom",
+  "license": "EUPL 1.2",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "pelias-config": "^1.0.3",
+    "pelias-dbclient": "0.0.9",
+    "pelias-logger": "0.0.8",
+    "pelias-model": "^0.3.0",
+    "proj4": "^2.3.12",
+    "through2-filter": "^2.0.0",
+    "through2-map": "^2.0.0",
+    "through2-sink": "^1.0.0",
+    "xml-stream": "^0.4.5"
+  }
+}
