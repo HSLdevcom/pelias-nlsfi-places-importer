@@ -16,6 +16,7 @@
     "pelias-model": "^0.3.0",
     "proj4": "^2.3.12",
     "through": "^2.3.8",
+    "through2": "^2.0.0",
     "through2-filter": "^2.0.0",
     "through2-map": "^2.0.0",
     "through2-sink": "^1.0.0",
