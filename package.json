@@ -20,6 +20,7 @@
     "through2-filter": "^2.0.0",
     "through2-map": "^2.0.0",
     "through2-sink": "^1.0.0",
-    "xml-stream": "^0.4.5"
+    "xml-stream": "^0.4.5",
+    "pelias-wof-admin-lookup": "^2.0.0"
   }
 }
