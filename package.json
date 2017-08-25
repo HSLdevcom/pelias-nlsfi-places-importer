@@ -12,7 +12,7 @@
     "minimist": "^1.2.0",
     "pelias-dbclient": "2.2.0",
     "pelias-logger": "0.2.0",
-    "pelias-model": "5.0.0",
+    "pelias-model": "5.0.1",
     "pelias-wof-admin-lookup": "3.10.0",
     "proj4": "^2.3.12",
     "through": "^2.3.8",
