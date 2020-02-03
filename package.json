@@ -10,10 +10,10 @@
   "dependencies": {
     "lodash": "^4.17.4",
     "minimist": "^1.2.0",
-    "pelias-dbclient": "2.5.6",
+    "pelias-dbclient": "github:hsldevcom/dbclient",
     "pelias-logger": "1.2.1",
-    "pelias-model": "5.7.1",
-    "pelias-wof-admin-lookup": "5.0.0",
+    "pelias-model": "7.1.0",
+    "pelias-wof-admin-lookup": "github:hsldevcom/wof-admin-lookup",
     "proj4": "^2.5.0",
     "through": "^2.3.8",
     "through2": "^3.0.0",
