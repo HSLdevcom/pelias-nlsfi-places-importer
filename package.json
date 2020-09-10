@@ -5,12 +5,17 @@
   "bin": {
     "pelias-nlsfi-places-importer": "./lib/index.js"
   },
+  "scripts": {
+    "lint": "jshint .",
+    "validate": "npm ls"
+  },
   "author": "HSLdevcom",
   "license": "EUPL 1.2",
   "dependencies": {
     "lodash": "^4.17.4",
     "minimist": "^1.2.0",
     "pelias-dbclient": "github:hsldevcom/dbclient",
+    "elasticsearch": "^16.7.0",
     "pelias-logger": "1.2.1",
     "pelias-model": "7.1.0",
     "pelias-wof-admin-lookup": "github:hsldevcom/wof-admin-lookup",
@@ -21,5 +26,8 @@
     "through2-map": "^3.0.0",
     "through2-sink": "^1.0.0",
     "xml-stream": "^0.4.5"
+  },
+  "devDependencies": {
+    "precommit-hook": "3.0.0"
   }
 }
