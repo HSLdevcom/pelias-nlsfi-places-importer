@@ -16,7 +16,7 @@
     "minimist": "^1.2.0",
     "pelias-dbclient": "github:hsldevcom/dbclient",
     "elasticsearch": "^16.7.0",
-    "pelias-logger": "1.2.1",
+    "pelias-logger": "^2.0.0",
     "pelias-model": "7.1.0",
     "pelias-config": "^4.8.0",
     "pelias-wof-admin-lookup": "github:hsldevcom/wof-admin-lookup",
